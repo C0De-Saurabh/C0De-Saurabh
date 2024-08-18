@@ -1,9 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-![Profile Views: ](https://komarev.com/ghpvc/?username=your-C0De-Saurabh&style=flat-square&color=lightgrey)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=your-C0De-Saurabh&style=flat-square&color=lightgrey&base=50">
+</p>
 
-###
-
-<p align="left">My name is Saurabh Kumar Tantuway and I'm MANIT Bhopal CSE Graduate and a Software Developer.</p>
+### <p align="left">My name is Saurabh Kumar Tantuway and I'm MANIT Bhopal CSE Graduate and a Software Developer.</p>
 
 ###
 
