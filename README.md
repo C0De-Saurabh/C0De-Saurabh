@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 <br>📚 I'm currently learning SpringBoot.<br>
+<p align="left">✨ Creating bugs since 2018 <br>📚 I'm currently learning more about golang.<br>
 
 ###
 
